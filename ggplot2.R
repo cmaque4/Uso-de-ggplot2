@@ -8,7 +8,7 @@ library(ggplot2)
 data(iris)
 data(mpg)
 data()
-### graficos predeterminados en R
+### gráficos predeterminados en R
 
 hist(iris$Sepal.Length)
 plot(iris$Sepal.Length,iris$Pepal.Width) #gráfico de disperciÃ³n
